@@ -1,6 +1,6 @@
 # Wouter Fransen
 
-![Profile Photo](images/profile.jpg)
+![Profile Photo](Pic.jpeg)
 
 **Institution:** Utrecht University   
 **Email:** w.fransen@students.uu.nl  
