@@ -15,7 +15,7 @@ Master student with interests in algebraic geometry. I was a bachelor student in
 
 ---
 
-## [CV](cv.pdf)
+## [CV](CV.pdf)
 
 ---
 
