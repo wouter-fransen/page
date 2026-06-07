@@ -1,6 +1,3 @@
-
-
-# Wouter Fransen
 <img src="Pic.jpeg" alt="drawing" width="200"/>
 
 Utrecht University   
