@@ -1,25 +1,16 @@
----
-layout: default
-title: Your Name
----
-
-# Your Name
+# Wouter Fransen
 
 ![Profile Photo](images/profile.jpg)
 
-**Position:** PhD Student / Researcher / Software Engineer  
-**Institution:** University or Company Name  
-**Email:** your.email@example.com  
-**GitHub:** https://github.com/yourusername  
-**LinkedIn:** https://linkedin.com/in/yourprofile
+**Position:** Master Student  
+**Institution:** Utrecht University   
+**Email:** w.fransen@students.uu.nl  
 
 ---
 
 ## About Me
 
-Welcome to my personal website.
-
-I am a researcher interested in:
+Master student with interests in algebraic geometry.
 
 ---
 
@@ -32,3 +23,5 @@ I am a researcher interested in:
 📄 [Download CV](files/cv.pdf)
 
 ---
+
+## Talks
