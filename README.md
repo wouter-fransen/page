@@ -26,6 +26,10 @@
 
 ◦ (2025-2026): Various talks in reading courses
 ## Writings
+◦ **Master's Thesis**\
+[Matroidal degenerations of Prym varieties](./Master_Thesis_Wouter_Fransen.pdf)\
+Supervisor: [Olivier de Gaay Fortman](https://olivierfortman.github.io/)
 
-## Cv
-[link](./CV.pdf)
+◦ **Bachelor's Thesis**\
+[Grothendieck Topologies on the Category of Finite Probability Spaces](./Thesis_BTW_Wouter_Fransen.pdf)\
+Supervisor: [Jim Portegies](https://www.tue.nl/en/research/researchers/jim-portegies)
